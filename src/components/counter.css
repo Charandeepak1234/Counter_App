@@ -1,0 +1,19 @@
+.back{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 50px;
+    font-style: oblique;
+    text-align: center;
+}
+.button{
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 4px;
+}
